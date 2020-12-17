@@ -8,7 +8,7 @@ This is my first hand-made repository. I made this following the github tutorial
 
 <details open >
 <summary> 
-  Hello <code>Test</code>
+  Collaps <code>Code</code>
    </summary>
 
  A collapsible part.
